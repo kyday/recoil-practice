@@ -1,9 +1,8 @@
 # React recoil
 
+#### Recoil는 React를 위한 상태 관리 라이브러리로, atoms (공유 상태)에서 selectors (순수 함수)를 거쳐 React 컴포넌트로 내려가는 data-flow graph를 생성
+
 > npx create-react-app recoil-practice --template typescript
-
-## atoms (공유 상태)에서 selectors (순수 함수)를 거쳐 React 컴포넌트로 내려가는 data-flow graph를 만들 수 있음
-
 > yarn add recoil
 > npm install recoil
 
